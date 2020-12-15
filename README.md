@@ -9,6 +9,8 @@
   * View - View Controller - Persistent Model - Application Logic - Network (Design for offline)
   * Background Process도 Local과 Network 연결 포함하는 Global Sync 스레드 분리 (Task Queue) 
 * Build a modular Android app architecture (Google I/O'19) : https://www.youtube.com/watch?v=PZBg5DIzNww
+  * module : library module, dynamic feature module
+  * module by feature, module by layer
   
 # 일반
 
