@@ -22,6 +22,9 @@
 
 ## Android
 
+### Basic
+* Tasks and the Back Stack : https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4#.g6dck3mde
+
 ### Design Pattern
 * Android Development Patterns : https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
 
