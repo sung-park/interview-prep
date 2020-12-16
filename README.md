@@ -8,7 +8,7 @@
   * 서로 커뮤니케이션에 용이하다
   * Classification and list
     * Creational patterns
-      1. Abstract factory
+      1. Abstract factory : https://en.wikipedia.org/wiki/Abstract_factory_pattern
     * Structural patterns
     * Behavioural patterns
     * Concurrency patterns 
