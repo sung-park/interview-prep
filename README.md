@@ -15,15 +15,15 @@
       1. Builder pattern : https://en.wikipedia.org/wiki/Builder_pattern 
     * Structural patterns
     * Behavioural patterns
-    * Concurrency patterns 
-* Java Design Pattern Interview Questions : https://www.youtube.com/results?search_query=android+design+patterns
+    * Concurrency patterns
+* Java Design Pattern Interview Questions : https://www.youtube.com/results?search_query=android+design+patterns :+1:
     
 ### Software Architecture
-
 
 ## Android
 
 ### Design Pattern
+* Android Development Patterns : https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
 
 ### Architecture
 
