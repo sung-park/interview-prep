@@ -16,6 +16,7 @@
     * Structural patterns
     * Behavioural patterns
     * Concurrency patterns 
+* Java Design Pattern Interview Questions : https://www.youtube.com/results?search_query=android+design+patterns
     
 ### Software Architecture
 
