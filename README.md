@@ -3,7 +3,16 @@
 ## 일반
 
 ### Design Pattern
-
+* Software design pattern: https://en.wikipedia.org/wiki/Software_design_pattern
+  * design pattern known problem에 대한 문서화되고 검증된 해결책
+  * 서로 커뮤니케이션에 용이하다
+  * Classification and list
+    * Creational patterns
+      1. Abstract factory
+    * Structural patterns
+    * Behavioural patterns
+    * Concurrency patterns 
+    
 ### Software Architecture
 
 
