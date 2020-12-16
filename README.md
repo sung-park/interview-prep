@@ -19,6 +19,11 @@
 * Java Design Pattern Interview Questions : https://www.youtube.com/results?search_query=android+design+patterns :+1:
     
 ### Software Architecture
+* Systems Design Interview Concepts (for software engineers / full-stack web) : https://www.youtube.com/watch?v=REB_eGHK_P4
+  * scalability
+    * web server :nginx, dns load balancing : web server
+    * database server : web caching (cassandra), index, master slave, sharding,
+    * file server : CDN
 
 ## Android
 
