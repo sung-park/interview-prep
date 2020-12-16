@@ -43,3 +43,7 @@
   * module : library module, dynamic feature module
   * module by feature, module by layer
 
+## Coding test
+
+* https://leetcode.com/
+  * Single Number : bitwise operation
