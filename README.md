@@ -9,6 +9,8 @@
 
 ## Android
 
+### Design Pattern
+
 ### Architecture
 
 * Android Application Architecture (Android Dev Summit 2015) : https://www.youtube.com/watch?v=BlkJzgjzL0c
