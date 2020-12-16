@@ -47,3 +47,4 @@
 
 * https://leetcode.com/
   * Single Number : bitwise operation
+  * Happy Number : https://www.geeksforgeeks.org/happy-number/
