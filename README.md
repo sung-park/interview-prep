@@ -8,10 +8,11 @@
   * 서로 커뮤니케이션에 용이하다
   * Classification and list
     * Creational patterns
-      1. Abstract factory : https://en.wikipedia.org/wiki/Abstract_factory_pattern
+      1. Abstract factory pattern : https://en.wikipedia.org/wiki/Abstract_factory_pattern
       1. Builder pattern : https://en.wikipedia.org/wiki/Builder_pattern
       1. Singleton pattern : https://en.wikipedia.org/wiki/Singleton_pattern
       1. Prototype pattern : https://en.wikipedia.org/wiki/Prototype_pattern
+      1. Builder pattern : https://en.wikipedia.org/wiki/Builder_pattern 
     * Structural patterns
     * Behavioural patterns
     * Concurrency patterns 
