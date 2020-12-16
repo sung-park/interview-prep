@@ -11,6 +11,7 @@
       1. Abstract factory : https://en.wikipedia.org/wiki/Abstract_factory_pattern
       1. Builder pattern : https://en.wikipedia.org/wiki/Builder_pattern
       1. Singleton pattern : https://en.wikipedia.org/wiki/Singleton_pattern
+      1. Prototype pattern : https://en.wikipedia.org/wiki/Prototype_pattern
     * Structural patterns
     * Behavioural patterns
     * Concurrency patterns 
