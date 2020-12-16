@@ -1,4 +1,11 @@
 # 인터뷰 준비
+  
+## 일반
+
+### Design Pattern
+
+### Software Architecture
+
 
 ## Android
 
@@ -11,6 +18,4 @@
 * Build a modular Android app architecture (Google I/O'19) : https://www.youtube.com/watch?v=PZBg5DIzNww
   * module : library module, dynamic feature module
   * module by feature, module by layer
-  
-# 일반
 
