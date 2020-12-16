@@ -47,4 +47,6 @@
 
 * https://leetcode.com/
   * Single Number : bitwise operation
-  * Happy Number : https://www.geeksforgeeks.org/happy-number/
+  * Happy Number
+    * https://www.geeksforgeeks.org/happy-number/
+    * https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
