@@ -24,7 +24,7 @@
 
 ### Basic
 * Tasks and the Back Stack : https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4#.g6dck3mde
-
+* App Standby vs. Doze: Understanding System Sleep (Android Dev Summit 2015) : https://www.youtube.com/watch?v=p6ZiDZBgPY8
 ### Design Pattern
 * Android Development Patterns : https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
 
